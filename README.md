@@ -1,4 +1,4 @@
-# Awesome Psychology Mind Maps [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+# [Awesome Psychology Mind Maps](https://mindmapai.app/mind-maps/psychology) [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Apply psychological insights effectively with project management and mind maps AI to organize research, map behavioral patterns, and track mental health goals. Mind maps AI supports structured thinking and emotional clarity, making psychological concepts more accessible and actionable.
 
